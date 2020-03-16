@@ -16,6 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+这是springboot整合iview-vue的前端项目，结合后端项目https://github.com/qigangye/springboot_vue共同搭建一个完整的前后端分离项目
